@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>alerta de mensajes</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+</head>
+<body class="login">
+    <h2 > Funciones open y Confirmar</h2>
+    <form>
+        <label>
+            Abrir en una pestaña del navegador
+            <input type="button" value="abrir" onclick="pesta()"> <br> <br>
+
+            Abrir en otra ventana del navegador
+            <input type="button" value="abrir" onclick="ventana()"><br><br>
+
+            <input type="button" value="Salir" onclick="confirmar()">
+        </label>
+    </form>
+
+    <h2>redireccionamiento y locacion</h2>
+    <label>
+        Abrio una pagina en especifica
+        <input type="button" value="abrir" onclick="redireccionar()">
+
+    </label> <br> 
+    <!--conteo y disponibilidad de caracteres -->
+    <label>
+        <textarea name="texto" id="texto" rows="10" cols="40" maxlength="20"></textarea>
+    </label>
+    <p>caracteres diponibles: <span id="cantidad">20</span></p>
+    <script src="java_26.js"></script>
+
+
+</body>
+</html>
+
+
+
+
+
+
+

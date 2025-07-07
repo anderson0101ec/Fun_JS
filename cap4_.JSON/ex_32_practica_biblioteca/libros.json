@@ -1,0 +1,144 @@
+{
+    "biblioteca": [
+        {
+            "titulo": "Construcción y diseño de páginas web con html, css y javascript",
+            "editorial": "Ra-Ma",
+            "edicion": "2023",
+            "isbn": "9789587925852",
+            "autores": {
+            "autor principal": "Pablo E. Fernández Casado",
+            "autor secundario": "",
+            "autor terciario": ""
+            },
+            "codigo sena": ["987654345678"],
+            "descripcion": "Libro para el aprendizaje básico y fundamentos de Páginas Web"
+        },
+
+        {
+            "titulo": "Arrancar con HTML5",
+            "editorial": "Alfaomega",
+            "edicion": "2012 ",
+            "isbn": "95447132",
+            "autores": {
+            "autor principal": "Emmanuel Herrera Rios",
+            "autor secundario": "Roberto Alfare",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544000198"],
+            "descripcion": "curso de programacion"
+        },
+        
+
+        {
+            "titulo": "programe juegos con Actionscript 3.0",
+            "editorial": "Alfaomega",
+            "edicion": "2012",
+            "isbn": "9786077074076",
+            "autores": {
+            "autor principal": "Alejandro Herrera",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544000179"],
+            "descripcion": "programando juegos con ActionScript 3.0"
+            },
+
+        {
+            "titulo": "crea una web desde cero",
+            "editorial": "ediciones de la U ",
+            "edicion": "2013",
+            "isbn": "9789587620979",
+            "autores": {
+            "autor principal": "Fernando Rodriges Díeguez",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544000180"],
+            "descripcion": "entender como se hace las paginas wed "
+            },
+
+        {
+            "titulo": "Base de datos relacionales y modelo de datos ",
+            "editorial": "ic editorial",
+            "edicion": "2014",
+            "isbn": "9788416109760",
+            "autores": {
+            "autor principal": "Maria Yolanda Jimenes Cape",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544004447"],
+            "descripcion": "base de datos "
+            },
+
+        {
+            "titulo": "Access 2013",
+            "editorial": "Alfaomega",
+            "edicion": "2013",
+            "isbn": "798849490621",
+            "autores": {
+            "autor principal": "Rosario Peña Perez",
+            "autor secundario": "Borja Orbegozo Arana",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544000309"],
+            "descripcion": " Manual practico para todos"
+            },
+
+        {
+            "titulo": "SGBD e instalacion",
+            "editorial": " ic editorial",
+            "edicion": "2014",
+            "isbn": "9788416207534",
+            "autores": {
+            "autor principal": "Rafael Angel Prieto Lope",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544004446"],
+            "descripcion": "Administracion de base de datos"
+            },
+
+        {
+            "titulo": "Guia practica de XHTML,JavaScript y CSS",
+            "editorial": "Alfaomega",
+            "edicion": "2013",
+            "isbn": "9786077072225",
+            "autores": {
+            "autor principal": "Juan Carlos Oros",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544000097"],
+            "descripcion": "practica de lenguajes de programación"
+            },
+
+        {
+            "titulo": "Ubutu linux",
+            "editorial": "Ra-Ma",
+            "edicion": "2011",
+            "isbn": "9789588675657",
+            "autores": {
+            "autor principal": "Francisco Javier Carazo Gil",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544000394"],
+            "descripcion": "instalacion y configuracion de equipos"
+            },
+
+        {
+            "titulo": "Microsoft SQK Azure ",
+            "editorial": "Alfaomega",
+            "edicion": "2012",
+            "isbn": "9786077074298",
+            "autores": {
+            "autor principal": "Maria Perez Marqués",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544000193"],
+            "descripcion": "Administracion y desarrollo de la nube "
+            }
+        ]
+    }

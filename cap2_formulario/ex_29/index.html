@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reloj date</title>
+    <link rel="stylesheet" href="style_29.css">
+
+</head>
+<body onload="comenzarReloj()">
+    <h1>Reloj</h1>
+    <label >
+       <h2>seleccione los segundos para Activar el sonido.</h2> 
+        <br>
+        <div>
+        <input type="number" name="tiempo" id="tiempoelegido">
+
+    </label>
+    <button onclick="comenzarTiempo()">Alarma</button>
+    </div>
+    <h2 id="textoalarma">00:00:00</h2>
+
+    <audio src="Alarma.mp3" id="audioAlarma" type="audio/mpeg">
+        sonido no habilitado
+    </audio>
+
+
+    <script src="java_29.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alarma</title>
+    <link rel="stylesheet" href="style-28.css">
+</head>
+<body >
+    <label >
+      <h2>  Selecciona el tiempo de la Alarma:</h2>
+        <input type="number" name="tiempo" id="tiempoCronometro">
+
+    </label>
+    <button onclick="cuentaRegresiva()">Iniciar</button> <br><br>
+      
+    <h3 id="txtTiempo">¡tiempo finalizado!</h3>
+    <h3>Tiempo restante: <span id="contador">0</span> segundos</h3>
+
+
+    <audio src="Alarma.mp3" id="audioAlarma" type="audio/mpeg" controls>
+
+        Sonido no habilitado
+    </audio>
+
+    
+
+    <script src="java_28.js"></script>
+</body>
+</html>

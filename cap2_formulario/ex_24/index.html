@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+</head>
+<body>
+    <!-- le permite ingresar datos al usuario y confirmar que solo se enviado no hay validacion aun-->
+    <h2>Ingresar sus datos</h2>
+    <label>
+        <input type="text" name="nombreUsuario" id="nombre" onfocus="vaciar(this)" value="nombre">
+    </label>
+    <label>
+        <input type="text" name="edadUsuario" id="edad" onfocus="vaciar(this)" value="edad">
+    </label>
+
+    <input type="button" value="Ingresar" onclick="verificar()">
+
+    <script src="java_24.js"></script>
+</body>
+</html>
